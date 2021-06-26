@@ -14,7 +14,6 @@ h1 {
 a {
     color: #ffffff;
     text-decoration: none;
-
 }
 
 a:hover {
@@ -24,9 +23,42 @@ a:hover {
 section {
     height: 100vh;
     background-color:pink;
-    background-image: url("assets/sally_1.jpg");
     background-size:cover;
+    background-attachment: fixed;
 }
+
+.img-1 {
+    background-image: url("assets/sally_1.jpg");
+}
+
+.img-2 {
+    background-image: url("assets/sally_2.jpg");
+}
+
+.img-3 {
+    background-image: url("assets/sally_3.jpg");
+}
+
+.img-4 {
+    background-image: url("assets/sally_4.jpg");
+}
+
+.img-5 {
+    background-image: url("assets/sally_5.jpg")
+}
+
+.img-6 {
+    background-image: url("assets/sally_6.jpg")
+}
+
+.img-7 {
+    background-image: url("assets/sally_7.jpg")
+}
+
+.img-8 {
+    background-image: url("assets/sally_8.jpg")
+}
+
 
 header {
     font-family: 24px;
